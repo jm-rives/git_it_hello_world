@@ -1,1 +1,1 @@
-I am enjoying Git_It git tutorial very much. 
+I am enjoying Git_It git tutorial very much. I hope to enhance my skill with git after completing this tutorial. 
